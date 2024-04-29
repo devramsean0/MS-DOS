@@ -791,7 +791,7 @@ TREE     854e 0004
 0002 U 0000 "Directory PATH listing for Volume %1",CR,LF
 0003 U 0000 "Directory PATH listing",CR,LF
 0004 U 0000 "No sub-directories exist",CR,LF,LF
-0007 U 0000 "ÀÄÃ³"
+0007 U 0000 "Ã€Ã„ÃƒÂ³"
 REPLACE  860d 0009
 0003 U 0000 CR,LF,"No files replaced",CR,LF
 0004 U 0000 CR,LF,"No files added",CR,LF
@@ -920,9 +920,9 @@ REDIRSYS 9d28 0000
 MEM      9d3c 0042
 0010 U 0000  CR,LF
 0011 U 0000  "  Address     Name          Size       Type ",CR,LF
-0012 U 0000  "  ÄÄÄÄÄÄÄ     ÄÄÄÄÄÄÄÄ     ÄÄÄÄÄÄ     ÄÄÄÄÄÄ",CR,LF
+0012 U 0000  "  Ã„Ã„Ã„Ã„Ã„Ã„Ã„     Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„     Ã„Ã„Ã„Ã„Ã„Ã„     Ã„Ã„Ã„Ã„Ã„Ã„",CR,LF
 0013 U 0000  "  Handle      EMS Name      Size   ",CR,LF
-0014 U 0000  "  ÄÄÄÄÄÄÄ     ÄÄÄÄÄÄÄÄ     ÄÄÄÄÄÄ  ",CR,LF
+0014 U 0000  "  Ã„Ã„Ã„Ã„Ã„Ã„Ã„     Ã„Ã„Ã„Ã„Ã„Ã„Ã„Ã„     Ã„Ã„Ã„Ã„Ã„Ã„  ",CR,LF
 0015 U 0000  "  %1      %2     %3     %4",CR,LF
 0016 U 0000  "                %1   %2      %3 ",CR,LF
 0017 U 0000  "                  %1              %2 ",CR,LF
@@ -1037,9 +1037,9 @@ FDISK    b1ba 0122
 0007 U 0000 "Error writing fixed disk",CR,LF
 0009 U 0003 "Y",0
 0010 U 0003 "N",0
-1001 U 0000 "MS-DOS Version 4.00"
+1001 U 0000 "Hack DOS Version 1.00"
 1002 U 0000 "Fixed Disk Setup Program"
-1003 U 0000 "(C)Copyright Microsoft Corp. 1983, 1988"
+1003 U 0000 "(C)Copyright Microsoft Corp. 1983, 1988 & (c)Copyright Sean Outram. 2024"
 1004 U 0000 "FDISK Options"
 1005 U 0000 "1. <R>Create DOS Partition or Logical DOS Drive"
 1006 U 0000 "2. <R>Set active partition"
